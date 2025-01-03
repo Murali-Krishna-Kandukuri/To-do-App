@@ -58,4 +58,5 @@ ul.theList {
 .todoListMain .theList li:hover {
   background-color: pink;
   cursor: pointer;
+  
 }
